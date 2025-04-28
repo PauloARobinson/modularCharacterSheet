@@ -2,6 +2,7 @@
   "dependencies": {
     "html2pdf.js": "^0.10.3",
     "i18next": "^25.0.1",
+    "node-fetch": "^3.3.2",
     "pdf-lib": "^1.17.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
